@@ -3,11 +3,8 @@ i.fa-brands {
     margin: 0 5px;
 }
 
-/* 
-<a target="_blank"
-    href="https://github.com/ariesetiadi-sm/penjadwalan-app"
-    class="btn btn-default">
-    <i class="fa-brands fa-github"></i>
-    Lihat pada Github
-</a>
-*/
+.shadow-bottom {
+    -webkit-box-shadow: 0 32px 15px -28px #000000;
+    -moz-box-shadow: 0 32px 15px -28px #000000;
+    box-shadow: 0 32px 15px -28px #000000;
+}
